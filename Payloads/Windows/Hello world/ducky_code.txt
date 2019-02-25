@@ -5,5 +5,5 @@ STRING notepad
 DELAY 500
 ENTER
 DELAY 750
-STRING Hello World!!!!!
+STRING Hello World!!!!!???
 ENTER
